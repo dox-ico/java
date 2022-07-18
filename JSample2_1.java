@@ -1,6 +1,6 @@
 class JSample2_1{
     public static void main(String args[]){
-      int n[] = {18, 29, 36};
+      int n[] = {18, 29, 37};
   
       System.out.println("開始します");
   
