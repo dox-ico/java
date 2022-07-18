@@ -5,7 +5,7 @@ class JSample2_1{
       System.out.println("開始します");
   
       try{
-        for (int i = 0; i < 4; i++){
+        for (int i = 0; i < 5; i++){
           System.out.println(n[i]);
         }
       }
